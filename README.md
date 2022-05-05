@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Sarah-Pabis
-- 👀 I’m interested in AI and SWE
-- 🌱 I’m currently learning AI, App development, coding in general and math/university topics
-- 💞️ I’m looking to collaborate on idk yet
-- 📫 How to reach me 
+- I'm from Germany
+- My favorite CS topics are AI, SWE and app development
+- I'm not in university yet but i would like to get a bachelor's in CS
+- I like dogs and pasta 🦮🍝
+- CSに携わる女子をもっと増やすべきだと思います🌸
 
 <!---
 Sarah-Pabis/Sarah-Pabis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
